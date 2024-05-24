@@ -8,3 +8,17 @@
   width: 500px;
   height: 300px;
 }
+
+.inputField input{
+  width: 300px;
+}
+
+table, th, td {
+  border: 1px solid rgb(255, 254, 254);
+  border-collapse: collapse;
+}
+
+td{
+  text-align: center;
+}
+
